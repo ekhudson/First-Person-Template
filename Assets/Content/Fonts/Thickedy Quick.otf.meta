@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1dc2eea8a3cd52147bdee9d6cb954fcb
+timeCreated: 1497507591
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thickedy Quick
+  fontNames:
+  - Thickedy Quick
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

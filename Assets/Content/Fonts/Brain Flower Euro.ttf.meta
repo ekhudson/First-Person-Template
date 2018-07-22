@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7a3313cd7a5966a4c91be787e320e9f3
+timeCreated: 1497507591
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brain Flower
+  fontNames:
+  - Brain Flower
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

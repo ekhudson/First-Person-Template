@@ -1,0 +1,14 @@
+///////////////////////////////////////////////////////////
+// Component Preset Script
+///////////////////////////////////////////////////////////
+
+ComponentType vp_FPController
+PhysicsHasCollisionTrigger True
+MotorAcceleration 0.17
+MotorDamping 0.2
+MotorBackwardsSpeed 0.65
+MotorAirSpeed 0.35
+MotorSlopeSpeedUp 1
+MotorSlopeSpeedDown 1
+MotorJumpForce 0.18
+MotorJumpForceDamping 0.08
